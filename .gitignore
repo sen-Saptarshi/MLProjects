@@ -1,0 +1,12 @@
+__pycache__
+.ipynb_checkpoints/
+
+glove_6B/
+
+hin-eng/
+
+Models/
+
+pdf/
+
+*.zip
